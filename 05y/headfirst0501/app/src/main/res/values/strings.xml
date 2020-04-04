@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Layout Examples</string>
+
+    <string name="destination_hint">To</string>
+    <string name="message_hint">Message</string>
+    <string name="send_text">Send</string>
+    <string name="text1_text">It\'s a duck!</string>
+    <string name="text2_text">(not a real one)</string>
+    <string name="toggle_textOn">It\'s on! (=</string>
+    <string name="toggle_textOff">It\'s off! )=</string>
+    <string name="checkbox1_text">Milk</string>
+    <string name="checkbox2_text">Sugar</string>
+    <string name="radio1_text">Blue</string>
+    <string name="radio2_text">Green</string>
+    <string name="image_contentDescription">Yellow rubber ducky</string>
+    <string name="like_text">Like</string>
+</resources>
