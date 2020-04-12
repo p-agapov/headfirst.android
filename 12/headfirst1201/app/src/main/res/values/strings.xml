@@ -1,0 +1,49 @@
+<resources>
+
+    <!--    App-->
+    <string name="app_name">Bits and Pizzas</string>
+
+    <!--    Toolbar-->
+    <string name="toolbar_main_create_order_title">Create Order</string>
+    <string name="toolbar_main_share_title">Share</string>
+    <string name="share_intent_text">Want to join me for pizza?</string>
+
+    <!--    Tabs-->
+    <string name="tab_home_title">Home</string>
+    <string name="tab_pizza_title">Pizzas</string>
+    <string name="tab_pasta_title">Pasta</string>
+    <string name="tab_store_title">Stores</string>
+
+    <!--    Activity Order-->
+    <string name="activity_order_label">Create Order</string>
+    <string name="activity_order_name_hint">Please enter your name</string>
+    <string name="activity_order_details_hint">Please enter your order</string>
+    <string name="activity_order_info_image_contentDescription">Restaurant image</string>
+    <string name="activity_order_snackbar_text">Your order has been updated</string>
+    <string name="activity_order_snackbar_action_text">Undo</string>
+    <string name="activity_order_toast_text">Undone!</string>
+
+    <!--    Fragment Top-->
+    <string name="fragment_top_info_image_contentDescription">Restaurant image</string>
+    <string name="fragment_top_company_name_text">Bits and Pizzas</string>
+    <string name="fragment_top_home_text">Since we opened our doors in 2017, Bits and Pizzas
+        has built its reputation as one of America’s best Italian-Digital restaurants. Some
+        people believe eating out is about being with your friends and family. We believe that
+        good food is best enjoyed while staring at your phone.</string>
+
+    <!--    String arrays-->
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+
+    <string-array name="pasta">
+        <item>Spaghetti Bolognese</item>
+        <item>Lasagne</item>
+    </string-array>
+
+    <string-array name="stores">
+        <item>Cambridge</item>
+        <item>Sebastopol</item>
+    </string-array>
+</resources>

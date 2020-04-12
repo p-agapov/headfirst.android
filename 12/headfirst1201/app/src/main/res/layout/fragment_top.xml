@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TopFragment">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/fragment_top_info_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/fragment_top_info_image_contentDescription"
+            android:scaleType="centerCrop"
+            android:src="@drawable/bg_restaurant" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/default_margin"
+            android:layout_marginTop="@dimen/fragment_top_marginTop"
+            android:layout_marginEnd="@dimen/default_margin"
+            android:background="@color/colorWhite"
+            android:orientation="vertical"
+            android:padding="@dimen/default_padding">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/fragment_top_company_name_text"
+                android:textSize="@dimen/fragment_top_textSize" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/fragment_top_home_text" />
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+</android.support.v4.widget.NestedScrollView>
