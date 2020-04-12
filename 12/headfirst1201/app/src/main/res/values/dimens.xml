@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    Defaults-->
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+
+    <!--    Activity Order-->
+    <dimen name="activity_order_appbar_height">300dp</dimen>
+
+    <!--    Fragment Top-->
+    <dimen name="fragment_top_marginTop">40dp</dimen>
+    <dimen name="fragment_top_textSize">32sp</dimen>
+</resources>
