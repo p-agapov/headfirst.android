@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">CatChat</string>
+
+    <!--    Activity Main-->
+    <string name="activity_main_nav_open_drawer">Open navigation menu</string>
+    <string name="activity_main_nav_close_drawer">Close navigation menu</string>
+
+    <!--    Fragment Inbox-->
+    <string name="fragment_inbox_text">Inbox</string>
+
+    <!--    Fragment Drafts-->
+    <string name="fragment_drafts_text">Drafts</string>
+
+    <!--    Fragment Sent Items-->
+    <string name="fragment_sent_items_text">Sent items</string>
+
+    <!--    Fragment Trash-->
+    <string name="fragment_trash_text">Trash</string>
+
+    <!--    Activity Help-->
+    <string name="activity_help_text">Help</string>
+
+    <!--    Activity Feedback-->
+    <string name="activity_feedback_text">Feedback</string>
+
+    <!--    Nav Header-->
+    <string name="nav_header_app_name">CatChat</string>
+    <string name="nav_header_user_name">spot@catchat.com</string>
+    <string name="nav_header_image_contentDescription">Cat</string>
+
+    <!--   Menu Nav -->
+    <string name="nav_inbox">Messages</string>
+    <string name="nav_drafts">Drafts</string>
+    <string name="nav_sent">Sent messages</string>
+    <string name="nav_trash">Trash</string>
+    <string name="nav_support">Support</string>
+    <string name="nav_help">Help</string>
+    <string name="nav_feedback">Give us feedback</string>
+</resources>
