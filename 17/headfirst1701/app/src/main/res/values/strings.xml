@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Starbuzz</string>
+
+    <!--    Activity Top Level-->
+    <string name="activity_top_level_logo_contentDescription">Starbuzz log</string>
+    <string name="activity_top_level_title_favourites_text">Your favourite drinks:</string>
+
+    <!--    Activity Drink-->
+    <string name="activity_drink_checkbox_text">Favorite</string>
+
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stories</item>
+    </string-array>
+</resources>
